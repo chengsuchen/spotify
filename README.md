@@ -1,6 +1,6 @@
 What is the URL of this site, as hosted on your student webserver (i.e.,
 
-students.washington.edu/cchen94/Desktop/spotify/main.html 
+http://students.washington.edu/cchen94/info343/SChallenge/spotify/main.html
 
 2. Did you receive any help from others (classmates, etc)? If so, please list who.
 
